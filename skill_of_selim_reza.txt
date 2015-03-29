@@ -1,0 +1,32 @@
+Here is my skill set (out of 10):: ...... 
+
+1. HTML ( 9 ) 
+2. CSS (9)
+3. HTML5 (7)
+4. CSS3 (6)
+------------------------------
+
+5. PHP (4)
+6. MySQL (3)
+------------------------------
+
+7. JavaScript (4)
+8. JQuery (5)
+9. Ajax (2)
+-------------------------------
+
+10. Joomla (7) 
+11. Wordpress (8)
+12. Magento (3)
+-------------------------------
+
+13. Plugin Implementation (8)
+---------------------------------
+
+14. OOP MVC CodeIgniter (5)
+------------------------------
+
+
+15. Fireworks (9)
+16. Photoshop (4)
+17. Illustrator(0)
